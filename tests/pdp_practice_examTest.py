@@ -1,0 +1,54 @@
+from checkpy import *
+import typing
+
+only("exam.py")
+
+download("barca.txt", "https://raw.githubusercontent.com/minai/exam-tests/main/data/barca.txt")
+download("barca_short.txt", "https://raw.githubusercontent.com/minai/exam-tests/main/data/barca_short.txt")
+
+######## Q1 ########
+
+fun1_def = (declarative
+    .function("compute_three_for_two_discount")
+    .params("product_price", "number_of_items")
+    .returnType(float)
+)
+
+test1_1 = test()(fun1_def.call(3).returns(2.35))
+test1_2 = test()(fun1_def.call(6).returns(4.7))
+test1_3 = test()(fun1_def.call(7).returns(4.7))
+test1_1 = test()(fun1_def.call(0).returns(0.0))
+
+######## Q2 ########
+
+fun2_def = (declarative
+    .function("find_short_words")
+    .params("text", "max_length")
+    .returnType(typing.List[str])
+)
+test2_1 = test()(fun2_def.call("The story is").returns(['The', 'is'])
+test2_1 = test()(fun2_def.call("Magnificent").returns([])
+test2_3 = test()(fun2_def.call("The story so far in the beginning the universe was created This has made a lot of people very angry and been widely regarded as a bad move").returns(['The', 'so', 'far', 'in', 'the', 'the', 'was', 'has', 'a', 'lot', 'of', 'and', 'as', 'a', 'bad']))
+
+######## Q3 ########
+
+fun3_def = (declarative
+    .function("values_to_keys")
+    .params("dictionary")
+    .returnType(typing.Dict[str, typing.List[str]])
+)
+
+test3_1 = test()(fun3_def.call({'Tullamore': 'Ireland', 'Suntory': 'Japan')).returns({'Ireland': 'Tullamore', 'Japan': 'Suntory']})
+test3_2 = test()(fun3_def.call({'Johnny Walker': 'Scotland', 'Glennfiddich': 'Scotland')).returns({'Scotland': ['Johnny Walker', 'Glenfiddich']})
+test3_3 = test()(fun3_def.call({'Hibiki': 'Japan', 'Bushmills': 'Ireland', 'anCnoc': 'Scotland', 'Teeling': 'Ireland', 'Starward': 'Australia', 'Four Roses': 'USA', 'Aberlour': 'Scotland', 'Nikka': 'Japan', 'Bulleit': 'USA', 'Tullibardine': 'Scotland'}).returns({'Japan': ['Hibiki', 'Nikka'], 'Ireland': ['Bushmills', 'Teeling'], 'Scotland': ['anCnoc', 'Aberlour', 'Tullibardine'], 'Australia': ['Starward'], 'USA': ['Four Roses', 'Bulleit']}))
+
+######## Q4 ########
+
+fun4_def = (declarative
+    .function("shutouts")
+    .params("filename")
+    .returnType(int)
+)
+
+test4_1 = test()(fun4_def.call("barca_short.txt").returns(2))
+test4_2 = test()(fun4_def.call("barca.txt").returns(40))
