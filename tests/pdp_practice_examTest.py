@@ -14,10 +14,11 @@ fun1_def = (declarative
     .returnType(float)
 )
 
-test1_1 = test()(fun1_def.call(3).returns(2.35))
-test1_2 = test()(fun1_def.call(6).returns(4.7))
-test1_3 = test()(fun1_def.call(7).returns(4.7))
-test1_1 = test()(fun1_def.call(0).returns(0.0))
+test1_1 = test()(fun1_def.call(2.35, 3).returns(2.35))
+test1_2 = test()(fun1_def.call(2.35, 6).returns(4.7))
+test1_3 = test()(fun1_def.call(2.35, 7).returns(4.7))
+test1_4 = test()(fun1_def.call(2.35, 0).returns(0.0))
+test1_5 = test()(fun1_def.call(3.20, 17).returns(16.0))
 
 ######## Q2 ########
 
