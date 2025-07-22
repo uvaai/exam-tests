@@ -27,9 +27,10 @@ fun2_def = (declarative
     .params("text", "max_length")
     .returnType(typing.List[str])
 )
-test2_1 = test()(fun2_def.call("The story is").returns(['The', 'is'])
-test2_1 = test()(fun2_def.call("Magnificent").returns([])
-test2_3 = test()(fun2_def.call("The story so far in the beginning the universe was created This has made a lot of people very angry and been widely regarded as a bad move").returns(['The', 'so', 'far', 'in', 'the', 'the', 'was', 'has', 'a', 'lot', 'of', 'and', 'as', 'a', 'bad']))
+test2_1 = test()(fun2_def.call("The story is", 3).returns(['The', 'is']))
+test2_2 = test()(fun2_def.call("Magnificent", 3).returns([]))
+test2_3 = test()(fun2_def.call("Magnificent", 15).returns(['Magnificent']))
+test2_4 = test()(fun2_def.call("The story so far in the beginning the universe was created This has made a lot of people very angry and been widely regarded as a bad move", 3).returns(['The', 'so', 'far', 'in', 'the', 'the', 'was', 'has', 'a', 'lot', 'of', 'and', 'as', 'a', 'bad']))
 
 ######## Q3 ########
 
@@ -39,8 +40,8 @@ fun3_def = (declarative
     .returnType(typing.Dict[str, typing.List[str]])
 )
 
-test3_1 = test()(fun3_def.call({'Tullamore': 'Ireland', 'Suntory': 'Japan')).returns({'Ireland': 'Tullamore', 'Japan': 'Suntory']})
-test3_2 = test()(fun3_def.call({'Johnny Walker': 'Scotland', 'Glennfiddich': 'Scotland')).returns({'Scotland': ['Johnny Walker', 'Glenfiddich']})
+test3_1 = test()(fun3_def.call({'Tullamore': 'Ireland', 'Suntory': 'Japan'}).returns({'Ireland': ['Tullamore'], 'Japan': ['Suntory']}))
+test3_2 = test()(fun3_def.call({'Johnny Walker': 'Scotland', 'Glenfiddich': 'Scotland'}).returns({'Scotland': ['Johnny Walker', 'Glenfiddich']}))
 test3_3 = test()(fun3_def.call({'Hibiki': 'Japan', 'Bushmills': 'Ireland', 'anCnoc': 'Scotland', 'Teeling': 'Ireland', 'Starward': 'Australia', 'Four Roses': 'USA', 'Aberlour': 'Scotland', 'Nikka': 'Japan', 'Bulleit': 'USA', 'Tullibardine': 'Scotland'}).returns({'Japan': ['Hibiki', 'Nikka'], 'Ireland': ['Bushmills', 'Teeling'], 'Scotland': ['anCnoc', 'Aberlour', 'Tullibardine'], 'Australia': ['Starward'], 'USA': ['Four Roses', 'Bulleit']}))
 
 ######## Q4 ########
