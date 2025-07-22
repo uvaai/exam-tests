@@ -1,7 +1,7 @@
 from checkpy import *
 import typing
 
-only("exam.py")
+only("pdp_practice_exam.py")
 
 download("barca.txt", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca.csv")
 download("barca_short.txt", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca_short.csv")
