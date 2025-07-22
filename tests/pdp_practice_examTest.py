@@ -3,8 +3,8 @@ import typing
 
 only("exam.py")
 
-download("barca.txt", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca.txt")
-download("barca_short.txt", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca_short.txt")
+download("barca.txt", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca.csv")
+download("barca_short.txt", "https://raw.githubusercontent.com/uvaai/exam-tests/main/data/barca_short.csv")
 
 ######## Q1 ########
 
