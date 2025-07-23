@@ -52,5 +52,5 @@ fun4_def = (declarative
     .returnType(int)
 )
 
-test4_1 = test()(fun4_def.call("barca_short.txt").returns(2))
-test4_2 = test()(fun4_def.call("barca.txt").returns(40))
+test4_1 = test()(fun4_def.call("barca_short.csv").returns(2))
+test4_2 = test()(fun4_def.call("barca.csv").returns(40))
