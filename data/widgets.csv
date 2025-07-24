@@ -1,0 +1,800 @@
+2020-01-02,Widget A,9,92.52,New York
+2020-01-03,Widget G,17,23.15,Chicago
+2020-01-05,Widget H,8,68.1,Los Angeles
+2020-01-06,Widget B,15,99.4,Houston
+2020-01-07,Widget E,9,91.47,Houston
+2020-01-08,Widget B,3,85.99,Houston
+2020-01-09,Widget C,5,52.44,Chicago
+2020-01-11,Widget C,2,30.17,Chicago
+2020-01-12,Widget I,18,91.88,New York
+2020-01-13,Widget I,1,32.95,New York
+2020-01-15,Widget D,11,33.82,Los Angeles
+2020-01-17,Widget G,4,22.78,Houston
+2020-01-19,Widget A,8,60.47,Los Angeles
+2020-01-20,Widget G,7,20.59,New York
+2020-01-21,Widget E,20,25.0,Chicago
+2020-01-22,Widget D,1,33.41,Houston
+2020-01-23,Widget C,9,44.57,Houston
+2020-01-25,Widget E,6,69.98,New York
+2020-01-26,Widget E,14,86.96,New York
+2020-01-27,Widget G,1,44.19,New York
+2020-01-28,Widget A,1,84.87,Houston
+2020-01-29,Widget J,2,81.73,New York
+2020-01-30,Widget E,10,61.26,Los Angeles
+2020-01-31,Widget H,18,26.3,Houston
+2020-02-04,Widget I,14,12.22,New York
+2020-02-05,Widget E,13,99.4,New York
+2020-02-06,Widget E,2,43.42,Chicago
+2020-02-07,Widget E,6,68.87,New York
+2020-02-08,Widget B,9,39.83,Chicago
+2020-02-09,Widget H,8,56.54,Houston
+2020-02-10,Widget C,17,16.57,New York
+2020-02-11,Widget G,2,10.59,Houston
+2020-02-12,Widget A,4,34.44,Chicago
+2020-02-13,Widget J,9,80.97,Houston
+2020-02-14,Widget G,6,90.39,New York
+2020-02-15,Widget H,18,37.05,Houston
+2020-02-16,Widget C,16,39.86,New York
+2020-02-17,Widget J,14,33.67,Los Angeles
+2020-02-18,Widget D,15,60.79,Houston
+2020-02-20,Widget G,7,57.7,New York
+2020-02-21,Widget F,8,14.15,New York
+2020-02-22,Widget A,4,82.53,Chicago
+2020-02-24,Widget C,8,83.39,Houston
+2020-02-25,Widget D,5,10.77,New York
+2020-02-26,Widget D,12,90.79,New York
+2020-02-29,Widget F,9,56.65,Los Angeles
+2020-03-01,Widget H,7,22.06,Houston
+2020-03-02,Widget D,5,30.57,Houston
+2020-03-03,Widget G,14,31.83,Houston
+2020-03-04,Widget A,4,10.5,Houston
+2020-03-05,Widget E,20,82.29,Chicago
+2020-03-06,Widget J,6,83.91,Chicago
+2020-03-07,Widget H,19,43.52,Chicago
+2020-03-08,Widget A,11,18.52,Los Angeles
+2020-03-09,Widget H,3,14.93,Chicago
+2020-03-10,Widget J,19,80.22,Chicago
+2020-03-11,Widget G,4,23.85,New York
+2020-03-12,Widget J,6,27.37,Houston
+2020-03-13,Widget J,12,45.77,New York
+2020-03-14,Widget C,5,93.22,New York
+2020-03-15,Widget D,10,38.5,New York
+2020-03-16,Widget B,4,17.58,Houston
+2020-03-18,Widget I,19,35.02,Houston
+2020-03-19,Widget A,15,97.44,Houston
+2020-03-20,Widget F,5,99.02,Houston
+2020-03-21,Widget H,2,95.85,New York
+2020-03-22,Widget A,9,22.48,Los Angeles
+2020-03-23,Widget I,17,99.7,Los Angeles
+2020-03-24,Widget B,5,51.61,Los Angeles
+2020-03-25,Widget F,11,37.79,Chicago
+2020-03-26,Widget D,7,59.27,Houston
+2020-03-27,Widget I,16,18.52,Los Angeles
+2020-03-28,Widget F,13,25.34,Houston
+2020-03-29,Widget A,6,73.22,Chicago
+2020-03-30,Widget I,3,55.4,New York
+2020-03-31,Widget A,3,22.07,Houston
+2020-04-02,Widget D,11,57.86,New York
+2020-04-03,Widget J,10,75.1,New York
+2020-04-04,Widget G,13,59.16,Los Angeles
+2020-04-05,Widget J,11,87.23,Los Angeles
+2020-04-08,Widget D,12,61.65,Chicago
+2020-04-11,Widget I,12,99.98,Houston
+2020-04-12,Widget G,3,55.26,Chicago
+2020-04-15,Widget I,18,39.8,Los Angeles
+2020-04-16,Widget A,9,56.11,Los Angeles
+2020-04-19,Widget C,15,38.12,Houston
+2020-04-20,Widget E,20,36.92,New York
+2020-04-21,Widget B,13,16.47,New York
+2020-04-22,Widget I,18,22.63,Los Angeles
+2020-04-24,Widget B,12,22.58,New York
+2020-04-27,Widget H,18,39.64,Chicago
+2020-04-28,Widget E,17,64.63,Houston
+2020-04-29,Widget B,5,66.74,Los Angeles
+2020-04-30,Widget E,6,11.96,Los Angeles
+2020-05-01,Widget C,14,99.52,Houston
+2020-05-04,Widget A,3,90.88,Los Angeles
+2020-05-06,Widget A,10,31.42,Chicago
+2020-05-08,Widget F,6,16.73,Los Angeles
+2020-05-10,Widget C,20,69.08,Houston
+2020-05-11,Widget B,2,32.59,Chicago
+2020-05-12,Widget F,19,19.02,Chicago
+2020-05-13,Widget I,7,57.44,Houston
+2020-05-15,Widget A,9,47.24,Los Angeles
+2020-05-16,Widget H,17,11.68,Houston
+2020-05-18,Widget D,14,29.26,Chicago
+2020-05-20,Widget D,5,44.16,Houston
+2020-05-21,Widget E,8,99.61,Chicago
+2020-05-23,Widget B,5,56.16,New York
+2020-05-25,Widget J,8,88.58,New York
+2020-05-26,Widget D,1,99.32,New York
+2020-05-27,Widget A,3,87.2,Houston
+2020-05-29,Widget A,17,71.56,Houston
+2020-05-30,Widget B,16,55.52,Los Angeles
+2020-05-31,Widget B,20,46.12,Houston
+2020-06-02,Widget I,20,59.94,Chicago
+2020-06-04,Widget G,16,88.23,Houston
+2020-06-06,Widget G,6,65.45,New York
+2020-06-08,Widget A,12,56.7,Los Angeles
+2020-06-09,Widget F,12,79.24,Chicago
+2020-06-10,Widget I,1,75.29,Chicago
+2020-06-11,Widget E,3,98.55,Los Angeles
+2020-06-12,Widget B,6,72.39,Chicago
+2020-06-14,Widget C,6,21.49,Los Angeles
+2020-06-15,Widget B,17,20.84,Houston
+2020-06-16,Widget C,5,93.06,Houston
+2020-06-17,Widget H,12,71.09,New York
+2020-06-18,Widget D,15,90.49,Houston
+2020-06-19,Widget F,18,90.45,Houston
+2020-06-20,Widget D,12,87.14,New York
+2020-06-21,Widget E,1,98.89,Los Angeles
+2020-06-22,Widget D,16,80.26,Los Angeles
+2020-06-23,Widget C,12,50.3,Chicago
+2020-06-24,Widget C,6,98.39,Los Angeles
+2020-06-25,Widget B,7,69.77,Chicago
+2020-06-26,Widget D,11,61.61,Houston
+2020-06-27,Widget D,9,12.49,Chicago
+2020-07-01,Widget I,13,51.9,Houston
+2020-07-03,Widget I,2,87.55,Chicago
+2020-07-04,Widget A,13,74.88,Chicago
+2020-07-05,Widget A,18,87.14,Houston
+2020-07-06,Widget H,19,59.05,New York
+2020-07-07,Widget F,1,61.04,New York
+2020-07-08,Widget H,5,34.08,Los Angeles
+2020-07-09,Widget E,18,99.86,Chicago
+2020-07-12,Widget F,12,96.75,Los Angeles
+2020-07-13,Widget C,16,26.36,Los Angeles
+2020-07-15,Widget F,11,88.62,Los Angeles
+2020-07-16,Widget F,3,50.22,New York
+2020-07-17,Widget D,19,83.27,Los Angeles
+2020-07-20,Widget A,13,48.44,Houston
+2020-07-21,Widget A,17,90.97,Chicago
+2020-07-22,Widget I,9,60.68,Houston
+2020-07-24,Widget C,1,50.81,Chicago
+2020-07-25,Widget E,12,66.33,Chicago
+2020-07-26,Widget G,13,93.22,Houston
+2020-07-27,Widget F,1,66.0,Chicago
+2020-07-28,Widget F,8,99.83,Chicago
+2020-07-29,Widget H,20,82.75,Houston
+2020-07-30,Widget F,17,46.33,Houston
+2020-07-31,Widget E,4,40.29,Los Angeles
+2020-08-01,Widget D,8,99.27,Chicago
+2020-08-03,Widget I,7,49.34,Chicago
+2020-08-04,Widget H,12,28.9,Los Angeles
+2020-08-05,Widget F,7,27.67,Houston
+2020-08-07,Widget H,2,14.72,Houston
+2020-08-08,Widget J,1,42.3,New York
+2020-08-10,Widget B,20,39.15,Chicago
+2020-08-12,Widget F,9,70.12,Houston
+2020-08-13,Widget I,14,68.95,Los Angeles
+2020-08-14,Widget F,18,10.79,Los Angeles
+2020-08-15,Widget F,14,87.43,New York
+2020-08-18,Widget E,14,60.01,New York
+2020-08-19,Widget H,10,40.57,Los Angeles
+2020-08-21,Widget C,17,98.24,Chicago
+2020-08-22,Widget E,18,25.17,Houston
+2020-08-23,Widget F,1,75.88,Houston
+2020-08-24,Widget G,19,27.26,New York
+2020-08-25,Widget A,5,24.48,Houston
+2020-08-26,Widget B,9,46.86,New York
+2020-08-28,Widget H,6,67.74,Los Angeles
+2020-08-30,Widget F,19,67.3,Chicago
+2020-08-31,Widget C,4,28.01,Houston
+2020-09-01,Widget H,3,51.64,Chicago
+2020-09-02,Widget I,13,32.21,Chicago
+2020-09-03,Widget A,7,30.48,Los Angeles
+2020-09-05,Widget H,10,50.54,Houston
+2020-09-06,Widget G,13,56.12,Los Angeles
+2020-09-07,Widget G,9,20.01,Los Angeles
+2020-09-08,Widget F,5,16.53,Houston
+2020-09-09,Widget H,17,48.17,Chicago
+2020-09-10,Widget I,11,41.27,Los Angeles
+2020-09-11,Widget A,6,15.64,Chicago
+2020-09-12,Widget C,13,95.46,Chicago
+2020-09-15,Widget F,3,50.84,New York
+2020-09-17,Widget H,16,30.7,Chicago
+2020-09-18,Widget D,2,84.4,Chicago
+2020-09-19,Widget F,1,59.72,Houston
+2020-09-22,Widget E,14,25.29,New York
+2020-09-23,Widget J,6,24.68,Chicago
+2020-09-26,Widget H,18,59.89,New York
+2020-09-27,Widget H,7,74.7,Houston
+2020-09-28,Widget I,19,85.28,New York
+2020-09-29,Widget D,17,92.6,New York
+2020-09-30,Widget D,12,34.8,New York
+2020-10-02,Widget F,7,95.77,Los Angeles
+2020-10-03,Widget G,14,44.84,Houston
+2020-10-04,Widget C,18,66.63,New York
+2020-10-05,Widget E,1,67.88,Houston
+2020-10-06,Widget H,8,92.34,Chicago
+2020-10-09,Widget C,11,25.33,New York
+2020-10-12,Widget F,11,44.3,Houston
+2020-10-13,Widget C,17,91.84,New York
+2020-10-14,Widget G,18,65.26,Los Angeles
+2020-10-17,Widget F,3,23.5,Los Angeles
+2020-10-18,Widget G,9,28.77,Los Angeles
+2020-10-20,Widget G,14,72.88,Los Angeles
+2020-10-22,Widget E,13,81.13,New York
+2020-10-23,Widget E,19,28.31,Houston
+2020-10-26,Widget H,2,71.32,Houston
+2020-10-29,Widget J,17,71.29,Houston
+2020-10-30,Widget A,14,99.5,Houston
+2020-10-31,Widget D,13,29.48,New York
+2020-11-01,Widget H,1,79.98,Houston
+2020-11-02,Widget E,13,34.35,New York
+2020-11-03,Widget E,19,88.78,Houston
+2020-11-04,Widget A,5,50.42,Chicago
+2020-11-05,Widget J,3,34.33,New York
+2020-11-06,Widget H,2,35.38,Chicago
+2020-11-08,Widget H,13,92.12,New York
+2020-11-09,Widget D,17,23.04,New York
+2020-11-10,Widget F,1,22.7,Los Angeles
+2020-11-12,Widget I,9,61.39,Chicago
+2020-11-13,Widget J,2,72.42,Los Angeles
+2020-11-14,Widget H,14,23.66,Houston
+2020-11-15,Widget J,15,86.25,Chicago
+2020-11-18,Widget G,10,80.99,Los Angeles
+2020-11-19,Widget C,11,92.38,Los Angeles
+2020-11-20,Widget E,18,76.22,New York
+2020-11-22,Widget I,3,99.45,Houston
+2020-11-25,Widget H,20,84.13,Chicago
+2020-11-26,Widget B,8,23.92,Houston
+2020-11-27,Widget F,5,45.27,New York
+2020-11-30,Widget E,14,56.97,Chicago
+2020-12-01,Widget A,2,82.78,New York
+2020-12-02,Widget G,20,60.73,Chicago
+2020-12-03,Widget H,3,63.73,Chicago
+2020-12-04,Widget C,14,55.27,Chicago
+2020-12-05,Widget G,19,83.65,Houston
+2020-12-06,Widget A,8,73.49,Chicago
+2020-12-07,Widget J,16,46.04,Los Angeles
+2020-12-08,Widget A,3,91.31,Los Angeles
+2020-12-09,Widget A,5,79.25,Houston
+2020-12-10,Widget H,4,94.02,Houston
+2020-12-11,Widget J,16,48.32,Los Angeles
+2020-12-12,Widget H,14,79.84,Houston
+2020-12-13,Widget A,20,54.1,Houston
+2020-12-14,Widget B,12,52.75,Houston
+2020-12-16,Widget A,14,20.34,Los Angeles
+2020-12-17,Widget J,7,16.59,Chicago
+2020-12-18,Widget E,17,96.5,Chicago
+2020-12-19,Widget A,17,13.21,New York
+2020-12-22,Widget A,16,35.12,Houston
+2020-12-23,Widget E,13,96.79,Houston
+2020-12-25,Widget F,19,27.7,Houston
+2020-12-26,Widget J,13,87.61,Los Angeles
+2020-12-27,Widget I,2,81.65,Los Angeles
+2020-12-30,Widget E,9,21.45,Los Angeles
+2021-01-01,Widget J,16,97.48,Houston
+2021-01-02,Widget F,10,12.04,Chicago
+2021-01-03,Widget D,8,11.64,Los Angeles
+2021-01-08,Widget B,16,82.9,Houston
+2021-01-10,Widget E,19,42.09,Los Angeles
+2021-01-11,Widget D,13,39.77,New York
+2021-01-13,Widget A,7,12.12,Chicago
+2021-01-15,Widget E,3,12.32,Houston
+2021-01-16,Widget E,7,89.15,Houston
+2021-01-17,Widget F,1,71.38,New York
+2021-01-18,Widget A,19,14.45,Chicago
+2021-01-19,Widget C,12,23.18,Houston
+2021-01-20,Widget E,12,66.66,Los Angeles
+2021-01-21,Widget A,15,26.06,New York
+2021-01-23,Widget F,14,30.86,New York
+2021-01-24,Widget G,17,79.75,Los Angeles
+2021-01-26,Widget J,2,57.02,Houston
+2021-01-27,Widget J,10,55.32,Chicago
+2021-01-28,Widget J,2,30.93,Houston
+2021-01-29,Widget F,13,52.35,Chicago
+2021-01-30,Widget F,19,31.79,Houston
+2021-01-31,Widget D,5,14.13,New York
+2021-02-01,Widget A,12,64.63,Houston
+2021-02-02,Widget C,11,93.84,Chicago
+2021-02-03,Widget F,11,58.61,Chicago
+2021-02-05,Widget D,13,76.38,New York
+2021-02-06,Widget B,2,19.26,Los Angeles
+2021-02-07,Widget H,4,57.83,Houston
+2021-02-08,Widget F,12,91.67,New York
+2021-02-09,Widget I,19,76.82,Chicago
+2021-02-10,Widget H,5,91.03,Chicago
+2021-02-11,Widget H,1,32.47,Chicago
+2021-02-13,Widget E,11,78.98,New York
+2021-02-17,Widget I,14,51.87,Houston
+2021-02-18,Widget G,2,25.36,Los Angeles
+2021-02-19,Widget E,11,43.25,Chicago
+2021-02-20,Widget F,2,49.41,New York
+2021-02-21,Widget H,11,41.34,New York
+2021-02-23,Widget F,16,86.15,New York
+2021-02-24,Widget D,10,18.92,Chicago
+2021-02-25,Widget F,17,74.04,New York
+2021-02-26,Widget G,7,37.46,Los Angeles
+2021-02-27,Widget H,8,48.41,Chicago
+2021-02-28,Widget D,20,87.96,New York
+2021-03-01,Widget J,1,12.55,New York
+2021-03-03,Widget B,13,23.41,Los Angeles
+2021-03-04,Widget B,4,36.45,New York
+2021-03-05,Widget C,19,35.43,New York
+2021-03-06,Widget A,2,78.8,Los Angeles
+2021-03-08,Widget J,18,86.5,Houston
+2021-03-09,Widget H,18,74.64,New York
+2021-03-10,Widget C,1,48.56,Chicago
+2021-03-11,Widget C,16,40.12,Chicago
+2021-03-12,Widget B,4,29.06,New York
+2021-03-14,Widget G,20,43.79,New York
+2021-03-17,Widget B,8,10.06,New York
+2021-03-18,Widget G,15,29.35,Los Angeles
+2021-03-19,Widget G,16,39.34,New York
+2021-03-20,Widget J,19,45.14,Chicago
+2021-03-21,Widget H,15,51.46,Los Angeles
+2021-03-22,Widget E,17,77.44,New York
+2021-03-23,Widget J,7,12.29,Chicago
+2021-03-25,Widget E,5,85.91,Houston
+2021-03-26,Widget I,13,52.44,Houston
+2021-03-27,Widget G,18,78.41,Los Angeles
+2021-03-28,Widget I,3,29.96,New York
+2021-03-29,Widget E,7,92.71,Chicago
+2021-03-30,Widget A,14,19.91,New York
+2021-03-31,Widget G,3,93.09,New York
+2021-04-01,Widget J,8,37.82,Houston
+2021-04-02,Widget B,3,42.14,Los Angeles
+2021-04-04,Widget E,18,69.04,Los Angeles
+2021-04-05,Widget B,11,44.39,Los Angeles
+2021-04-06,Widget C,14,15.24,New York
+2021-04-07,Widget F,20,85.66,Los Angeles
+2021-04-08,Widget E,1,67.83,Chicago
+2021-04-10,Widget E,7,96.24,Los Angeles
+2021-04-11,Widget B,13,13.61,New York
+2021-04-13,Widget I,14,69.72,Chicago
+2021-04-16,Widget G,11,90.67,New York
+2021-04-19,Widget C,10,80.01,Los Angeles
+2021-04-20,Widget G,1,72.32,Houston
+2021-04-21,Widget A,20,52.68,Los Angeles
+2021-04-22,Widget J,9,85.82,New York
+2021-04-23,Widget J,14,81.33,Los Angeles
+2021-04-24,Widget G,10,65.68,Houston
+2021-04-25,Widget J,14,67.04,Chicago
+2021-04-28,Widget H,3,13.82,New York
+2021-04-29,Widget E,19,35.03,Houston
+2021-04-30,Widget A,11,72.4,New York
+2021-05-02,Widget C,10,72.85,Los Angeles
+2021-05-03,Widget E,13,97.49,Los Angeles
+2021-05-05,Widget B,8,73.61,Chicago
+2021-05-06,Widget B,2,40.37,Los Angeles
+2021-05-07,Widget H,1,59.58,Los Angeles
+2021-05-08,Widget C,3,30.85,Los Angeles
+2021-05-09,Widget J,18,92.87,Chicago
+2021-05-10,Widget J,14,15.29,New York
+2021-05-11,Widget G,1,76.37,Chicago
+2021-05-14,Widget D,20,95.06,Houston
+2021-05-15,Widget I,3,45.15,Chicago
+2021-05-16,Widget D,15,34.91,New York
+2021-05-17,Widget E,5,60.74,Los Angeles
+2021-05-18,Widget I,9,25.33,Los Angeles
+2021-05-20,Widget A,15,83.22,Chicago
+2021-05-21,Widget A,18,59.49,Los Angeles
+2021-05-22,Widget J,8,26.19,New York
+2021-05-25,Widget C,7,89.15,Los Angeles
+2021-05-26,Widget F,13,45.33,Los Angeles
+2021-05-27,Widget H,12,63.34,Houston
+2021-05-28,Widget I,20,37.13,New York
+2021-05-29,Widget C,19,63.52,Chicago
+2021-05-30,Widget C,7,92.08,Houston
+2021-06-01,Widget G,8,89.8,Los Angeles
+2021-06-02,Widget I,6,83.87,Houston
+2021-06-05,Widget F,17,87.73,Los Angeles
+2021-06-06,Widget F,2,99.8,Los Angeles
+2021-06-07,Widget F,8,73.13,New York
+2021-06-09,Widget J,10,18.28,New York
+2021-06-10,Widget I,12,32.78,New York
+2021-06-11,Widget C,7,30.0,New York
+2021-06-12,Widget A,2,15.25,New York
+2021-06-13,Widget J,17,61.61,Chicago
+2021-06-15,Widget A,15,80.88,Los Angeles
+2021-06-16,Widget C,18,25.12,Houston
+2021-06-17,Widget F,15,14.31,Los Angeles
+2021-06-19,Widget G,1,32.86,Los Angeles
+2021-06-20,Widget H,15,31.81,Los Angeles
+2021-06-21,Widget C,8,54.95,Los Angeles
+2021-06-22,Widget C,12,39.13,Houston
+2021-06-23,Widget F,16,69.57,Houston
+2021-06-25,Widget E,1,84.74,Los Angeles
+2021-06-26,Widget B,5,62.76,Los Angeles
+2021-06-27,Widget B,17,72.35,New York
+2021-06-28,Widget G,18,98.74,Chicago
+2021-06-29,Widget H,15,82.52,New York
+2021-06-30,Widget H,1,73.52,Houston
+2021-07-01,Widget F,15,56.87,Chicago
+2021-07-02,Widget J,5,21.22,Chicago
+2021-07-03,Widget I,3,93.11,Houston
+2021-07-04,Widget F,15,32.98,Chicago
+2021-07-05,Widget I,20,96.46,Houston
+2021-07-06,Widget H,1,90.54,New York
+2021-07-07,Widget H,7,54.26,Chicago
+2021-07-09,Widget E,6,40.53,Houston
+2021-07-10,Widget H,18,45.65,Houston
+2021-07-11,Widget J,2,25.91,Chicago
+2021-07-13,Widget A,15,57.37,New York
+2021-07-14,Widget G,10,26.0,Los Angeles
+2021-07-17,Widget E,10,92.04,Chicago
+2021-07-18,Widget B,3,83.27,Los Angeles
+2021-07-19,Widget H,18,96.86,Houston
+2021-07-20,Widget G,19,47.14,Los Angeles
+2021-07-21,Widget B,3,20.03,Houston
+2021-07-23,Widget C,18,86.2,Houston
+2021-07-24,Widget G,20,20.38,Los Angeles
+2021-07-25,Widget F,16,43.01,Chicago
+2021-07-26,Widget D,12,59.46,Houston
+2021-07-27,Widget H,10,58.5,New York
+2021-07-28,Widget H,18,25.77,Los Angeles
+2021-07-31,Widget G,19,94.49,Los Angeles
+2021-08-01,Widget F,7,64.33,Houston
+2021-08-02,Widget E,5,24.41,Chicago
+2021-08-03,Widget G,3,41.49,Houston
+2021-08-04,Widget J,9,90.64,Chicago
+2021-08-05,Widget E,14,94.1,Houston
+2021-08-06,Widget A,12,44.48,Chicago
+2021-08-07,Widget G,5,74.83,Houston
+2021-08-10,Widget A,11,75.62,Houston
+2021-08-11,Widget D,17,58.79,Los Angeles
+2021-08-12,Widget F,1,45.18,Houston
+2021-08-13,Widget A,20,78.6,New York
+2021-08-14,Widget E,15,23.89,Chicago
+2021-08-15,Widget D,15,81.04,New York
+2021-08-16,Widget J,13,68.8,Houston
+2021-08-19,Widget A,9,58.33,Los Angeles
+2021-08-20,Widget G,13,32.88,Houston
+2021-08-21,Widget B,17,19.56,New York
+2021-08-22,Widget F,14,34.36,Houston
+2021-08-23,Widget F,1,30.57,Los Angeles
+2021-08-24,Widget D,2,33.57,Houston
+2021-08-25,Widget C,14,72.12,Los Angeles
+2021-08-27,Widget C,20,13.88,Los Angeles
+2021-08-28,Widget J,7,27.46,Los Angeles
+2021-08-30,Widget C,15,68.21,Chicago
+2021-08-31,Widget F,20,54.13,Chicago
+2021-09-02,Widget A,19,25.72,New York
+2021-09-03,Widget H,9,20.53,Chicago
+2021-09-04,Widget G,4,98.09,Chicago
+2021-09-05,Widget J,9,95.8,Chicago
+2021-09-06,Widget C,18,27.53,New York
+2021-09-07,Widget G,14,41.15,New York
+2021-09-09,Widget I,16,13.13,New York
+2021-09-13,Widget E,6,86.14,New York
+2021-09-14,Widget H,8,77.92,Chicago
+2021-09-15,Widget B,7,16.34,Chicago
+2021-09-17,Widget E,17,89.86,New York
+2021-09-18,Widget H,4,82.14,Los Angeles
+2021-09-19,Widget H,6,31.84,Los Angeles
+2021-09-20,Widget F,5,66.5,Houston
+2021-09-22,Widget H,11,38.75,Houston
+2021-09-23,Widget C,15,59.75,Los Angeles
+2021-09-24,Widget I,15,68.38,New York
+2021-09-25,Widget C,8,71.01,New York
+2021-09-26,Widget I,18,51.38,New York
+2021-09-27,Widget J,12,47.44,New York
+2021-09-29,Widget F,3,33.66,Los Angeles
+2021-09-30,Widget D,14,98.02,New York
+2021-10-02,Widget D,1,71.65,Houston
+2021-10-03,Widget D,3,90.23,New York
+2021-10-05,Widget D,1,23.16,Chicago
+2021-10-06,Widget F,14,57.85,Chicago
+2021-10-08,Widget J,3,44.36,Chicago
+2021-10-10,Widget C,9,55.08,Houston
+2021-10-11,Widget I,11,98.26,Chicago
+2021-10-12,Widget D,18,94.63,Chicago
+2021-10-13,Widget C,4,76.3,Houston
+2021-10-14,Widget C,4,51.19,Chicago
+2021-10-15,Widget A,17,16.1,Los Angeles
+2021-10-16,Widget J,8,60.92,Los Angeles
+2021-10-17,Widget I,3,24.09,Los Angeles
+2021-10-18,Widget G,11,58.62,Chicago
+2021-10-21,Widget C,10,13.11,New York
+2021-10-22,Widget F,4,26.79,Los Angeles
+2021-10-24,Widget B,16,91.93,New York
+2021-10-26,Widget F,13,62.77,Los Angeles
+2021-10-28,Widget J,17,18.96,Los Angeles
+2021-10-29,Widget B,11,55.58,New York
+2021-10-30,Widget I,17,65.39,Houston
+2021-11-02,Widget E,12,26.08,Houston
+2021-11-04,Widget C,13,52.46,Chicago
+2021-11-05,Widget I,18,77.15,Chicago
+2021-11-07,Widget H,19,58.3,Chicago
+2021-11-08,Widget I,15,42.55,New York
+2021-11-09,Widget H,19,71.37,Chicago
+2021-11-12,Widget H,15,37.34,Houston
+2021-11-17,Widget J,1,42.16,Chicago
+2021-11-18,Widget C,12,81.52,Houston
+2021-11-19,Widget B,1,30.07,Los Angeles
+2021-11-20,Widget A,7,77.6,New York
+2021-11-22,Widget B,10,68.09,New York
+2021-11-23,Widget I,4,51.99,Chicago
+2021-11-24,Widget H,5,17.26,New York
+2021-11-25,Widget E,16,57.94,Chicago
+2021-11-26,Widget I,2,98.2,Los Angeles
+2021-11-27,Widget D,6,26.86,New York
+2021-11-28,Widget E,15,37.38,Chicago
+2021-11-29,Widget E,9,12.46,Chicago
+2021-11-30,Widget D,11,43.74,Chicago
+2021-12-01,Widget B,4,62.66,New York
+2021-12-02,Widget G,11,96.47,Los Angeles
+2021-12-03,Widget A,6,92.45,Houston
+2021-12-04,Widget J,18,33.65,Houston
+2021-12-05,Widget F,20,57.35,Chicago
+2021-12-06,Widget F,16,72.46,Los Angeles
+2021-12-07,Widget G,5,62.46,Houston
+2021-12-08,Widget C,9,48.27,Los Angeles
+2021-12-09,Widget F,3,61.1,New York
+2021-12-12,Widget A,7,58.88,Los Angeles
+2021-12-13,Widget C,14,33.62,Houston
+2021-12-15,Widget J,13,97.89,Chicago
+2021-12-17,Widget B,20,67.43,New York
+2021-12-18,Widget G,9,44.05,New York
+2021-12-19,Widget B,16,24.69,New York
+2021-12-20,Widget C,15,27.97,New York
+2021-12-24,Widget A,6,90.13,Los Angeles
+2021-12-25,Widget A,9,31.76,Chicago
+2021-12-27,Widget B,18,59.79,Chicago
+2021-12-28,Widget C,10,41.78,New York
+2021-12-29,Widget H,19,97.75,New York
+2021-12-30,Widget A,13,55.87,Houston
+2021-12-31,Widget B,16,55.97,Los Angeles
+2022-01-02,Widget A,19,35.39,Los Angeles
+2022-01-03,Widget I,15,19.96,Houston
+2022-01-05,Widget I,15,54.29,Los Angeles
+2022-01-07,Widget J,12,48.95,Chicago
+2022-01-08,Widget D,10,40.19,Chicago
+2022-01-10,Widget B,8,89.33,New York
+2022-01-11,Widget D,19,80.82,New York
+2022-01-12,Widget F,6,89.87,Los Angeles
+2022-01-13,Widget F,2,21.3,Los Angeles
+2022-01-14,Widget C,2,42.49,Chicago
+2022-01-15,Widget A,19,13.2,New York
+2022-01-16,Widget A,18,34.32,New York
+2022-01-17,Widget G,17,80.57,New York
+2022-01-18,Widget F,12,33.51,New York
+2022-01-20,Widget J,5,12.1,Los Angeles
+2022-01-21,Widget D,1,42.34,New York
+2022-01-22,Widget I,7,71.43,Los Angeles
+2022-01-23,Widget E,17,19.43,Los Angeles
+2022-01-24,Widget A,16,74.53,Chicago
+2022-01-26,Widget J,14,31.18,New York
+2022-01-27,Widget G,11,82.99,Los Angeles
+2022-02-01,Widget G,9,79.07,Los Angeles
+2022-02-02,Widget J,19,81.32,Chicago
+2022-02-05,Widget J,1,16.81,New York
+2022-02-06,Widget F,16,87.56,Chicago
+2022-02-07,Widget D,13,85.13,Chicago
+2022-02-08,Widget B,7,27.58,Houston
+2022-02-09,Widget F,4,93.87,Los Angeles
+2022-02-10,Widget C,11,11.97,Houston
+2022-02-11,Widget D,12,85.82,New York
+2022-02-12,Widget F,9,85.5,Los Angeles
+2022-02-14,Widget I,2,97.94,New York
+2022-02-16,Widget G,17,47.68,Houston
+2022-02-17,Widget I,19,47.79,Los Angeles
+2022-02-18,Widget J,4,66.26,New York
+2022-02-21,Widget C,3,29.29,Chicago
+2022-02-23,Widget I,8,39.64,Houston
+2022-02-25,Widget J,3,56.12,Los Angeles
+2022-02-27,Widget J,15,21.99,Chicago
+2022-02-28,Widget E,13,99.46,Los Angeles
+2022-03-03,Widget I,10,53.05,Houston
+2022-03-04,Widget D,17,32.07,New York
+2022-03-05,Widget I,12,55.54,Chicago
+2022-03-06,Widget H,16,76.69,Los Angeles
+2022-03-07,Widget D,7,16.15,Los Angeles
+2022-03-08,Widget F,8,12.74,Houston
+2022-03-09,Widget A,11,41.68,Chicago
+2022-03-10,Widget G,1,14.61,Houston
+2022-03-11,Widget H,20,93.04,New York
+2022-03-13,Widget B,11,72.03,Los Angeles
+2022-03-15,Widget I,2,85.04,New York
+2022-03-17,Widget D,5,23.07,Houston
+2022-03-18,Widget D,7,83.17,Houston
+2022-03-19,Widget F,3,93.37,Chicago
+2022-03-20,Widget D,14,66.85,Houston
+2022-03-21,Widget E,14,13.55,Houston
+2022-03-22,Widget G,4,55.38,Houston
+2022-03-26,Widget E,18,48.24,Los Angeles
+2022-03-27,Widget C,19,60.53,New York
+2022-03-28,Widget H,3,27.74,Los Angeles
+2022-03-30,Widget B,20,79.59,Los Angeles
+2022-03-31,Widget F,11,70.61,Houston
+2022-04-01,Widget C,7,92.62,Chicago
+2022-04-02,Widget A,1,35.58,Chicago
+2022-04-03,Widget I,4,95.43,Chicago
+2022-04-04,Widget J,10,66.26,Houston
+2022-04-05,Widget F,13,16.08,New York
+2022-04-06,Widget E,19,27.81,Chicago
+2022-04-08,Widget A,5,50.12,Houston
+2022-04-09,Widget H,20,62.89,Los Angeles
+2022-04-10,Widget D,13,90.06,Chicago
+2022-04-11,Widget C,8,17.33,Chicago
+2022-04-12,Widget D,18,87.62,New York
+2022-04-13,Widget E,8,46.16,New York
+2022-04-14,Widget B,20,22.12,Los Angeles
+2022-04-15,Widget J,16,56.03,Los Angeles
+2022-04-16,Widget J,12,65.21,Houston
+2022-04-17,Widget F,9,79.38,Chicago
+2022-04-18,Widget D,16,15.46,Chicago
+2022-04-19,Widget H,1,33.47,New York
+2022-04-20,Widget G,4,96.47,Chicago
+2022-04-21,Widget G,11,96.53,Chicago
+2022-04-25,Widget F,3,64.15,Houston
+2022-04-26,Widget F,7,28.41,Houston
+2022-04-27,Widget C,9,16.79,Los Angeles
+2022-04-30,Widget H,16,96.21,Chicago
+2022-05-01,Widget C,7,40.47,Houston
+2022-05-02,Widget I,3,75.23,Houston
+2022-05-03,Widget H,16,52.49,Houston
+2022-05-04,Widget D,8,43.64,New York
+2022-05-05,Widget C,4,69.32,Chicago
+2022-05-08,Widget D,9,69.11,Chicago
+2022-05-09,Widget J,17,61.25,Los Angeles
+2022-05-10,Widget I,6,37.13,Chicago
+2022-05-11,Widget G,2,79.81,Houston
+2022-05-14,Widget C,16,47.0,New York
+2022-05-15,Widget I,16,29.96,Houston
+2022-05-16,Widget I,2,95.42,Chicago
+2022-05-19,Widget G,17,55.97,Los Angeles
+2022-05-20,Widget A,9,69.37,Los Angeles
+2022-05-24,Widget H,15,84.3,New York
+2022-05-25,Widget D,13,64.49,Los Angeles
+2022-05-26,Widget B,13,96.04,Houston
+2022-05-27,Widget B,19,85.33,Houston
+2022-05-28,Widget J,7,90.43,Los Angeles
+2022-05-29,Widget I,8,97.71,Los Angeles
+2022-05-30,Widget F,14,31.28,New York
+2022-06-01,Widget F,11,41.89,Houston
+2022-06-02,Widget B,11,86.35,New York
+2022-06-05,Widget A,4,53.72,New York
+2022-06-06,Widget H,13,73.97,New York
+2022-06-07,Widget F,19,62.1,Chicago
+2022-06-08,Widget B,14,78.39,New York
+2022-06-09,Widget D,7,75.87,Houston
+2022-06-10,Widget E,18,25.68,Los Angeles
+2022-06-11,Widget A,5,62.81,New York
+2022-06-12,Widget F,9,21.89,Houston
+2022-06-14,Widget F,11,23.2,New York
+2022-06-15,Widget A,2,47.54,Houston
+2022-06-16,Widget D,12,13.45,New York
+2022-06-18,Widget B,8,56.68,Houston
+2022-06-19,Widget D,9,29.24,New York
+2022-06-21,Widget F,1,37.17,Los Angeles
+2022-06-24,Widget C,17,44.84,Chicago
+2022-06-26,Widget H,14,18.07,New York
+2022-06-27,Widget E,10,43.32,New York
+2022-06-28,Widget G,16,91.49,Los Angeles
+2022-06-30,Widget I,7,43.16,New York
+2022-07-01,Widget F,18,21.46,Los Angeles
+2022-07-02,Widget J,6,35.94,Houston
+2022-07-04,Widget D,7,50.98,New York
+2022-07-05,Widget C,18,69.26,Chicago
+2022-07-06,Widget D,13,48.99,Los Angeles
+2022-07-07,Widget C,6,29.09,Chicago
+2022-07-09,Widget G,1,45.27,Los Angeles
+2022-07-12,Widget B,2,71.16,New York
+2022-07-13,Widget C,2,11.4,Houston
+2022-07-14,Widget I,2,61.9,Houston
+2022-07-16,Widget B,5,72.16,Houston
+2022-07-18,Widget A,14,19.15,Houston
+2022-07-20,Widget D,3,18.52,Houston
+2022-07-21,Widget E,12,55.66,Chicago
+2022-07-23,Widget C,14,25.97,New York
+2022-07-24,Widget B,19,73.57,New York
+2022-07-25,Widget J,7,63.1,Houston
+2022-07-26,Widget F,17,86.79,Houston
+2022-07-27,Widget A,10,46.52,Houston
+2022-07-28,Widget I,13,18.18,Houston
+2022-07-29,Widget H,19,41.21,Los Angeles
+2022-07-31,Widget J,15,21.09,Chicago
+2022-08-02,Widget H,8,98.13,Los Angeles
+2022-08-03,Widget F,18,65.73,Houston
+2022-08-04,Widget F,11,31.1,Los Angeles
+2022-08-05,Widget G,11,49.19,New York
+2022-08-06,Widget I,12,76.72,Chicago
+2022-08-08,Widget J,5,96.5,Los Angeles
+2022-08-09,Widget C,4,79.3,New York
+2022-08-11,Widget E,7,80.03,Los Angeles
+2022-08-12,Widget E,5,12.71,New York
+2022-08-13,Widget E,17,32.02,New York
+2022-08-14,Widget G,6,79.32,Los Angeles
+2022-08-15,Widget I,2,23.09,New York
+2022-08-16,Widget I,12,40.36,New York
+2022-08-17,Widget G,5,60.53,Chicago
+2022-08-18,Widget B,11,45.88,New York
+2022-08-21,Widget C,12,57.62,New York
+2022-08-23,Widget E,16,47.47,Los Angeles
+2022-08-24,Widget B,2,15.37,New York
+2022-08-26,Widget A,7,39.75,Chicago
+2022-08-27,Widget I,13,72.13,Chicago
+2022-08-28,Widget F,8,75.26,Los Angeles
+2022-08-29,Widget A,11,61.33,Houston
+2022-08-30,Widget G,5,95.46,Chicago
+2022-08-31,Widget E,12,43.98,Chicago
+2022-09-01,Widget C,18,27.51,Houston
+2022-09-02,Widget C,20,67.72,Los Angeles
+2022-09-03,Widget G,2,67.58,Los Angeles
+2022-09-04,Widget D,11,91.08,Chicago
+2022-09-05,Widget F,4,95.71,Chicago
+2022-09-06,Widget E,5,51.07,Houston
+2022-09-08,Widget E,15,65.39,New York
+2022-09-10,Widget A,2,56.25,Houston
+2022-09-11,Widget A,19,31.11,Chicago
+2022-09-12,Widget I,13,40.13,Los Angeles
+2022-09-13,Widget C,9,57.94,New York
+2022-09-16,Widget C,8,98.92,New York
+2022-09-17,Widget B,16,28.06,Chicago
+2022-09-18,Widget D,11,28.62,Houston
+2022-09-19,Widget C,8,44.18,Chicago
+2022-09-20,Widget I,5,10.8,Chicago
+2022-09-21,Widget C,13,39.19,New York
+2022-09-22,Widget A,20,19.62,New York
+2022-09-25,Widget A,12,83.09,Houston
+2022-09-26,Widget D,6,15.16,Los Angeles
+2022-09-27,Widget J,7,93.74,Chicago
+2022-09-28,Widget H,19,59.52,Chicago
+2022-09-29,Widget H,16,90.41,Chicago
+2022-09-30,Widget E,15,96.35,Houston
+2022-10-01,Widget D,1,70.93,Houston
+2022-10-03,Widget J,4,10.17,Houston
+2022-10-04,Widget H,1,63.14,New York
+2022-10-05,Widget D,14,33.25,Chicago
+2022-10-07,Widget G,15,88.98,Chicago
+2022-10-09,Widget B,2,59.24,Chicago
+2022-10-10,Widget C,20,81.29,New York
+2022-10-12,Widget G,19,73.21,Chicago
+2022-10-13,Widget B,3,38.98,Chicago
+2022-10-15,Widget A,15,84.68,New York
+2022-10-17,Widget C,6,13.63,New York
+2022-10-18,Widget H,1,96.38,Houston
+2022-10-19,Widget I,9,37.06,Chicago
+2022-10-20,Widget F,10,79.95,Chicago
+2022-10-21,Widget F,18,59.89,Chicago
+2022-10-24,Widget I,14,73.03,Houston
+2022-10-25,Widget G,18,37.6,New York
+2022-10-26,Widget G,8,62.73,New York
+2022-10-28,Widget B,13,62.26,Chicago
+2022-10-29,Widget A,12,56.91,Houston
+2022-10-31,Widget H,10,72.05,Houston
+2022-11-01,Widget F,19,26.62,Los Angeles
+2022-11-02,Widget F,12,41.41,Houston
+2022-11-03,Widget J,17,56.62,Chicago
+2022-11-04,Widget E,10,91.55,Houston
+2022-11-05,Widget G,6,58.09,Houston
+2022-11-06,Widget G,1,66.58,Houston
+2022-11-07,Widget J,5,63.66,New York
+2022-11-08,Widget E,16,81.44,Houston
+2022-11-09,Widget H,13,33.14,Chicago
+2022-11-10,Widget C,16,73.54,Chicago
+2022-11-12,Widget H,14,73.83,New York
+2022-11-14,Widget J,20,92.8,Houston
+2022-11-15,Widget G,15,78.77,Houston
+2022-11-16,Widget D,10,52.92,Houston
+2022-11-17,Widget A,6,80.46,Houston
+2022-11-21,Widget B,7,88.52,Chicago
+2022-11-24,Widget D,12,88.65,New York
+2022-11-25,Widget F,18,54.86,Houston
+2022-11-26,Widget C,18,45.94,Los Angeles
+2022-11-27,Widget A,8,88.83,Los Angeles
+2022-11-28,Widget C,13,17.43,New York
+2022-11-30,Widget A,10,55.8,Chicago
+2022-12-01,Widget H,7,32.75,Los Angeles
+2022-12-02,Widget J,20,19.33,Los Angeles
+2022-12-03,Widget H,6,31.6,Chicago
+2022-12-04,Widget I,5,17.42,Los Angeles
+2022-12-06,Widget B,20,55.64,Houston
+2022-12-08,Widget C,12,35.26,New York
+2022-12-09,Widget A,10,21.58,New York
+2022-12-14,Widget G,9,43.55,Chicago
+2022-12-15,Widget H,1,58.45,Houston
+2022-12-16,Widget C,17,40.17,Chicago
+2022-12-17,Widget H,10,64.74,Chicago
+2022-12-20,Widget C,4,84.19,New York
+2022-12-22,Widget C,1,22.1,Houston
+2022-12-23,Widget E,1,76.59,Houston
+2022-12-24,Widget G,10,39.82,Houston
+2022-12-25,Widget H,2,86.42,New York
+2022-12-27,Widget F,3,82.16,Houston
+2022-12-28,Widget I,9,10.85,Houston
+2022-12-29,Widget D,16,18.28,Chicago
+2023-01-01,Widget I,11,21.43,Houston
